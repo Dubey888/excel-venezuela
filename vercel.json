@@ -1,0 +1,10 @@
+{
+  "cleanUrls": true,
+  "redirects": [
+    {
+      "source": "/",
+      "destination": "/lista_precios_venezuela.xlsx",
+      "permanent": false
+    }
+  ]
+}
